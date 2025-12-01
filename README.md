@@ -4,6 +4,8 @@
 
 <div>
   <i>
-    Surprise your soulmate
+    <b>
+      Surprise your soulmate
+    </b>
   </i>
 </div>
